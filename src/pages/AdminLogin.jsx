@@ -18,7 +18,7 @@ const AdminLogin = () => {
       <section className="flex justify-center items-center">
         <div className="w-[300px] h-screen lg:w-[900px] mt-11">
           <div className="flex justify-center flex-col items-center">
-            <h1 className="font-extrabold lg:text-[48px]">Good Evening, Admin</h1>
+            <h1 className="font-extrabold lg:text-[48px]">Good Evening, Emma</h1>
 
 
              <div className="flex flex-col relative items-center space-y-[70px]">
